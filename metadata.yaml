@@ -1,5 +1,5 @@
 homepage: "https://www.markus-baersch.de"
 documentation: "https://github.com/mbaersch/heyflow-loader-tag-tag#readme"
 versions:
-  - sha: a31aebaae37347ce92f92659b7239a1b42e2a065
+  - sha: f860b9bdc6b93dc77c0c43d09739a55b5229ac27
     changeNotes: initial release.
