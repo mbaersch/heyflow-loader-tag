@@ -6,7 +6,7 @@ Loads HeyFlow script from static.heyflow.app.
 
 ![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-submitted-orange) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/heyflow-loader-tag) ![License](https://img.shields.io/github/license/mbaersch/heyflow-loader-tag)
 
-This template serves as a way to load the basic Heyflow script in a GTM container without access to Custom HTML tags (restricted tag types).  
+This template serves as a way to load the basic Heyflow script in a GTM container without access to Custom HTML tags ([restricted tag types](https://developers.google.com/tag-platform/tag-manager/restrict)).  
 
 ## Usage 
 Add the template to your container, create a new *Heyflow Loader* tag and trigger it when there is consent to load external resources. The tag will then load the following script: 
